@@ -1,3 +1,3 @@
 # My Dotfile
-# Made by LunarShade - Lusha
+### Made by LunarShade - Lusha
 
